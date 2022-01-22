@@ -1,6 +1,6 @@
 # Overview
 
-This program the beggining framework for a snakes and ladders game written in C++. 
+This program the beggining framework for a snakes and ladders game written in C++. The game can take up to 4 players and simple user interaction and text-based responses to implement a fun yet competitive environment.
 I created this to demonstrate the basic concepts of C++ including: 
 * variables
 * expressions

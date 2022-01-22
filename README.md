@@ -21,7 +21,7 @@ Ladder:
 This class is responsible for returning the bottom and top of the ladder.
 
 Main:
-This file runs the game loop.
+This file takes the names of the users, create player, snake, and ladder objects, and runs the game loop.
 
 
 Watch my demo with the provided link below:
@@ -39,3 +39,8 @@ Watch my demo with the provided link below:
 * [W3Schools Tutorial](https://www.w3schools.com/cpp/)
 * [Creating a C++ file in Visual Studio](https://docs.microsoft.com/en-us/cpp/windows/walkthrough-creating-a-standard-cpp-program-cpp?view=msvc-170)
 * [Classes in C++](https://www.cplusplus.com/doc/tutorial/classes/)
+
+# Future Work
+* Develop random map generation with snakes and ladders varying in length
+* Implement game environment with sprites and animation
+* Create a mobile game that connects online players

@@ -1,6 +1,6 @@
 # Overview
 
-This program the development of a snakes and ladders game written in C++. 
+This program the beggining framework for a snakes and ladders game written in C++. 
 I created this to demonstrate the basic concepts of C++ including: 
 * variables
 * expressions
@@ -10,9 +10,23 @@ I created this to demonstrate the basic concepts of C++ including:
 * classes
 * arrays
 
+The program has 3 class files and one main file:
+Player:
+This class is responsible for handling player movement.
+
+Snake:
+This class is responsible for returning the head and tail of the snake.
+
+Ladder:
+This class is responsible for returning the bottom and top of the ladder.
+
+Main:
+This file runs the game loop.
+
+
 Watch my demo with the provided link below:
 
-[Software Demo Video](https://youtu.be/ezDME8vQDfE)
+[Software Demo Video](https://youtu.be/ajWoRIjyNNU)
 
 # Development Environment
 
